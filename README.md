@@ -1,5 +1,4 @@
-# -렌독클 쿨타임데이터 업데이트하는 이상한 사람
-
+# -렌독클 rpgcooldownrpgcooldownV2, lootdata
 loot : 
 시간의 흔적-관조자,미련조각-모르테르 추가
 
