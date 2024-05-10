@@ -1,4 +1,7 @@
 # -렌독클 rpgcooldownV2, lootdata
+
+GitHub History에 없는 변동사항
+
 loot : 
 시간의 흔적-관조자,미련조각-모르테르 추가
 
