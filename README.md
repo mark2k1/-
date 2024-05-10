@@ -1,4 +1,4 @@
-# -렌독클 rpgcooldownrpgcooldownV2, lootdata
+# -렌독클 rpgcooldownV2, lootdata
 loot : 
 시간의 흔적-관조자,미련조각-모르테르 추가
 
