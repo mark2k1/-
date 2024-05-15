@@ -7,7 +7,7 @@
             "maxLevel": 9,
             "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
-            "RightCoolDown" : [1.1, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.01, 0.0, 0.0, 0.0, 0.0],
             "InVillage" : false
         },
         {
