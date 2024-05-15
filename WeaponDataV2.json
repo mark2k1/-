@@ -3,6 +3,14 @@
     "VersionRequires": "b7",
     "WeaponList" : [
         {
+            "WeaponName": "[ 6차전직무기 이름 ]",
+            "maxLevel": 9,
+            "changeByLevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [1.1, 0.0, 0.0, 0.0, 0.01, 0.01, 0.0, 0.0, 0.0],
+            "InVillage" : false
+        },
+        {
             "WeaponName" : "[ :: 마그마 블럭 :: ]",
             "maxLevel" : 1,
             "changeByLevel" : false,
