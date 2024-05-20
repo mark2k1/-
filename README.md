@@ -1,4 +1,4 @@
-# -렌독클 rpgcooldownV2, lootdata
+# -내가쓰려고 해둔 렌독클 rpgcooldownV2, lootdata
 
 GitHub History에 없는 변동사항
 
