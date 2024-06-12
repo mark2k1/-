@@ -1089,6 +1089,22 @@
             "LeftCoolDown" : [3.0],
             "RightCoolDown" : [16.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 트론 :: ]",
+            "maxLevel": 5,
+            "changeByLevel" : true,
+            "LeftCoolDown" : [14.0, 14.0, 14.0, 14.0, 14.0],
+            "RightCoolDown" : [29.0, 26.0, 23.0, 20.0, 17.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트론 :: ]",
+            "maxLevel": 1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [14.0],
+            "RightCoolDown" : [17.0],
+            "InVillage" : false
         }
     ]
 }
