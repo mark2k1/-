@@ -1105,6 +1105,22 @@
             "LeftCoolDown" : [14.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 데모니오 :: ]",
+            "maxLevel": 1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [18.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 데모니오 :: ]",
+            "maxLevel": 1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [18.0],
+            "InVillage" : false
         }
     ]
 }
